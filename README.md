@@ -8,9 +8,9 @@ Backend developer with **4+ years of experience** building scalable, secure appl
 - **Payments & Integrations**: PayPal, MoneyGram, Stripe—launched multiple production systems
 - **Track Record**: Delivered numerous projects for companies, handling everything from API design to high-traffic scaling
 - **Location**: Novorossiysk, Krasnodar Krai, Russia
-- **Currently**: Open to freelance, collaborations, or full-time backend roles
+- **Currently**: Open to freelance, collaborations, or full-time backend roles 
 
-I've launched **dozens of projects** in professional settings, prioritizing security and NDAs. That's why this GitHub is fresh—more on that below!
+I've launched **dozens of projects** in professional settings, prioritizing security and NDAs. That's why this GitHub is fresh—more on that below! 
 
 ## 🛠️ Skills & Technologies
 | Category          | Technologies                          |
